@@ -1,5 +1,3 @@
-# Fraud Detection System
-
 ## Project Description: 
 This Fraud Detection System leverages advanced machine learning techniques to identify and prevent fraudulent transactions. The system was built to address challenges posed by imbalanced and complex financial datasets and to provide a reliable method of distinguishing between legitimate and fraudulent transactions. Key tasks included data cleaning, model development, feature selection, performance evaluation, and infrastructure recommendations for fraud prevention.
 
